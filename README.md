@@ -17,8 +17,8 @@
 
 I'm a **software engineer and researcher** who loves figuring out how things work under the hood. I grew up in the Seattle area in a Dutch family, took every tech class I could, and never looked back.
 
-- 🎓 **MSc Software Engineering** @ [Universiteit van Amsterdam](https://www.uva.nl) (Cum Laude, 8.2/10) · Thesis grade: 8.5/10  
-- 🎓 **BSc Computer Science** (minor Physics) @ McGill University
+- 🎓 **MSc Software Engineering** @ [Universiteit van Amsterdam](https://www.uva.nl) (Cum Laude, 8.2/10) · Thesis grade: 8.5/10 🇳🇱
+- 🎓 **BSc Computer Science** (minor Physics) @ [McGill University](https://www.mcgill.ca/) (3.0/4) 🇨🇦
 - 💼 **~6 years** of industry + research experience  
 - 📍 Currently based in **Amsterdam** · From Seattle → Montréal → Ottawa → Amsterdam   
 
