@@ -24,7 +24,7 @@ I'm a **software engineer and researcher** who loves figuring out how things wor
 
 I've worked on **build systems and tooling at scale** (Cisco), designed **programming languages and runtimes** (Rust, CL0), and built **exploratory programming environments** (IGC). I care about performance, clean architecture, and making tools that developers actually enjoy using.
 
-When I’m not coding, I’m into **running**🏃, **football**⚽, **tennis**🎾, **travel**✈️, and **photography**📷.
+When I’m not coding, I’m into **running** 🏃, **football** ⚽, **tennis** 🎾, **travel** ✈️, and **photography** 📷.
 
 ---
 
