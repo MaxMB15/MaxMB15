@@ -76,7 +76,7 @@ Software architecture, algorithms & data structures, microservices, REST/RPC, De
 - **Software Engineer** @ Cisco — Build & UAT tooling for IOS-XE; perf and full-stack improvements  
 - **Software Development Intern** @ Holland America Group — Incident report analysis (Python, PostgreSQL, JS, PHP)  
 - **CSUS Helpdesk Tutor** @ McGill — CS tutoring; 5× TEAM Award  
-- **HackMcGill** — McHacks hackathon; director in final year (team of 27)
+- **HackMcGill** — McHacks hackathon organizer; director in final year (led team of 27)
 
 ---
 
