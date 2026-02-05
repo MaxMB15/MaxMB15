@@ -30,14 +30,17 @@ When I’m not coding, I’m into **running** 🏃, **football** ⚽, **tennis**
 
 ## 🛠️ Tech & skills
 
-**Languages (strongest first):**  
-`Python` `Java` `TypeScript/JavaScript` `C#` `Rust` `Go` `C` `C++` `Swift` `HTML/CSS` `PHP` `x64 Assembly`
+**Programming Languages (Strongest first):**  
+`Python` `Java` `TypeScript / JavaScript` `C#` `HTML / CSS` `Rust` `Bash` `Go` `C` `C++` `Swift` `x64 Assembly` `PHP`
 
-**Stack & tools:**  
-`React` `Node.js` `Express` `Electron` `PostgreSQL` `MongoDB` `Docker` `Kubernetes` `AWS` `Git` `Unix` `Ansible` `GitHub Actions`
+**Tools & Technologies:**  
+`React` `Node.js` `Express` `MySQL` `PostgreSQL` `MongoDB` `Tailwind` `Electron` `Unity` `SQL` `Kafka` `Git` `Unix`
+
+**Infra / DevOps / CI/CD:**  
+`Jenkins` `Docker` `Kubernetes` `AWS` `Ansible` `GitHub Actions` `Terraform`
 
 **Concepts:**  
-Software architecture, algorithms & data structures, microservices, REST/RPC, DevOps/CI-CD, requirements & testing, performance optimization, distributed systems
+`Software Architecture` `Algorithms & Data Structures` `REST APIs` `RPC APIs` `Microservices` `Requirements Engineering` `Verification & Testing` `Agile / Software Process` `Database Design` `API Design` `Performance Optimization` `Distributed Systems` `DevOps & CI/CD` `Machine Learning` `Computer Networks` `Cloud Computing`
 
 **Languages spoken:** 🇺🇸 English (native) · 🇳🇱 Dutch (intermediate) · 🇫🇷 French (basic)
 
